@@ -1,5 +1,9 @@
 <template>
-  <q-page class="row items-center justify-evenly">
+  <q-page class="column items-center justify-evenly">
+    <div style="width: 200px">
+      <img svg-inline src="../assets/quasar-logo-vertical.svg" />
+    </div>
+
     <example-component
       title="Example component"
       active
